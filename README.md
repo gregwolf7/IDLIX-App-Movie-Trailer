@@ -30,7 +30,7 @@ Kami menyediakan 2 versi rilis. Baca perbedaannya sebelum download:
 
 | Fitur | 🖥️ Versi Standard | 🔄 Versi Rotate |
 | :--- | :--- | :--- |
-| **Orientasi Layar** | **Landscape Only** (Terkunci) | **Auto** (Landscape & Portrait) |
+| **Play Video Optimize** | **Landscape Only** (Terkunci) | **Auto** (Landscape & Portrait) |
 | **Tampilan Video** | Dioptimalkan untuk Bioskop/TV Mode | Support Video Portrait Fullscreen |
 | **Kelebihan** | Stabil, Cinematic, Tidak goyang | Fleksibel, Nyaman untuk HP (Satu tangan) |
 | **Cocok Untuk** | Pengguna HP/Tablet | Pengguna HP dengan mobilitas tinggi |
@@ -82,9 +82,9 @@ Berbeda dengan AdBlocker konvensional, teknologi cerdas ini bekerja secara **pro
 1.  Klik tombol **DOWNLOAD APK SEKARANG** di bagian paling atas halaman ini.
 2.  Anda akan diarahkan ke halaman *Releases*.
 3.  Di bagian **Assets**, pilih file sesuai keinginan:
-    * Pilih `...-Standard.zip` untuk mode Landscape stabil.
-    * Pilih `...-Rotate.zip` untuk mode Auto-Rotate fleksibel.
-4.  Download ZIP dan Ekstrak ZIP
+    * Pilih `...-Standard.apk` untuk mode Landscape stabil.
+    * Pilih `...-Rotate.apk` untuk mode Auto-Rotate fleksibel.
+4.  Download APK
 5.  Install APK seperti biasa
 
 ---
